@@ -1,0 +1,28 @@
+Allow from all
+Satisfy any
+
+Options -Indexes
+
+ErrorDocument 400 /comingsoon/error.php
+ErrorDocument 401 /comingsoon/error.php
+ErrorDocument 403 /comingsoon/error.php
+ErrorDocument 404 /comingsoon/error.php
+ErrorDocument 405 /comingsoon/error.php
+ErrorDocument 406 /comingsoon/error.php
+ErrorDocument 407 /comingsoon/error.php
+ErrorDocument 408 /comingsoon/error.php
+ErrorDocument 409 /comingsoon/error.php
+ErrorDocument 410 /comingsoon/error.php
+ErrorDocument 411 /comingsoon/error.php
+ErrorDocument 412 /comingsoon/error.php
+ErrorDocument 413 /comingsoon/error.php
+ErrorDocument 414 /comingsoon/error.php
+ErrorDocument 415 /comingsoon/error.php
+ErrorDocument 416 /comingsoon/error.php
+ErrorDocument 417 /comingsoon/error.php
+ErrorDocument 500 /comingsoon/error.php
+ErrorDocument 501 /comingsoon/error.php
+ErrorDocument 502 /comingsoon/error.php
+ErrorDocument 503 /comingsoon/error.php
+ErrorDocument 504 /comingsoon/error.php
+ErrorDocument 505 /comingsoon/error.php
